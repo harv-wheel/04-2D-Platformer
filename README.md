@@ -7,17 +7,17 @@ Has a few enemies to kill and coins to collect.
 ## Implementation
 
 Basic Criteria:
-A playable character that can move and jump
-One type of enemy (placed twice)
-A scoring system
-A camera that follows the player
-Some platforms
+A playable character that can move and jump,
+One type of enemy (placed twice),
+A scoring system,
+A camera that follows the player,
+Terrain that functions as expected
 
 Also includes:
-A self-drawn player character
-Cool sprites for the terrain, enemies, and coins
-A player attack
-Lives (dysfunctional)
+A self-drawn player character,
+Cool sprites for the terrain, enemies, and coins,
+A player attack,
+Lives (dysfunctional),
 A background (not parallax)
 
 ## References
