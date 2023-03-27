@@ -22,9 +22,13 @@ A background (not parallax)
 
 ## References
 [Terrain from kenney.nl](https://kenney.nl/assets/simplified-platformer-pack)
+
 [Enemy sprites from kenney.nl](https://kenney.nl/assets/pixel-platformer)
+
 [Rotating Coin by Puddin](https://opengameart.org/content/rotating-coin)
+
 [Grid Background by joshshshsh](https://opengameart.org/content/grid-background)
+
 Player character created using [Piskel](https://www.piskelapp.com), a free open-source pixel art tool
 
 ## Future Development
